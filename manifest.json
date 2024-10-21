@@ -14,5 +14,6 @@
     },
     "background": {
         "service_worker": "background.js"
-    }
+    },
+    "description": "Find duplicate tabs in the current browser window."
 }
